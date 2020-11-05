@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zaferdurkut" alt="zaferdurkut" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/zaferdurkut/](https://www.linkedin.com/in/zaferdurkut/)
+- 👨‍💻 All of my experience are available at [https://www.linkedin.com/in/zaferdurkut/](https://www.linkedin.com/in/zaferdurkut/)
 
 - 📝 I regulary write articles on [https://medium.com/@durkutzafer](https://medium.com/@durkutzafer)
 
 - 💬 Ask me about **Python Web Development**
-
-- 📫 How to reach me **durkutzafer@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
