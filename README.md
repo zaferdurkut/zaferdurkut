@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Zafer</h1>
 <h3 align="center">I am a passionate Software Engineer interested in Cloud Computing, Microservice Architectures, Backend Development, Data Engineering, Big Data Processing, ML&AI, Web Scraping, Data Analysis, Image Processing, Satellite Images Processing, Geographic Data Processing, and GIS..</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zafer11111&label=Profile%20views&color=0e75b6&style=flat" alt="zaferdurkut" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zaferdurkut&label=Profile%20views&color=0e75b6&style=flat" alt="zaferdurkut" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zaferdurkut" alt="zaferdurkut" /></a> </p>
 
